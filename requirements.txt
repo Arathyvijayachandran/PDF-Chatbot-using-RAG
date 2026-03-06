@@ -6,4 +6,6 @@ faiss-cpu
 pypdf
 transformers
 torch
+
 huggingface_hub
+langchain-text-splitters
