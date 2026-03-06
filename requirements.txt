@@ -10,3 +10,5 @@ langchain-text-splitters==0.0.1
 huggingface_hub
 langchain-text-splitters
 
+
+
